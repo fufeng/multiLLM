@@ -1,4 +1,4 @@
-## F. Fu, X. Chen, N. Christakis, Agent-based simulation code for hybrid systems
+## Agent-based simulation code for hybrid human-AI systems
 
 
 ## Build
