@@ -40,7 +40,7 @@ If you use this code in academic work, please cite:
 
 - F. Fu, X. Chen, N. Christakis,
   *On the optimal integration of intelligent agents into network systems to steer cooperation*,
-  **PNAS (2026) in press**.
+  **PNAS (2026) 123(12), e2537939123**.
   DOI: `10.1073/pnas.2537939123`
 ## Contact
 
